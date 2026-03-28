@@ -1,0 +1,19 @@
+/* Estilos para el blog */
+/* selector por etiqueta */
+h1 {
+    color: blue;
+}
+
+/* article p {
+    color: green;
+}    */
+
+/* selector por clase */
+.subtitle {
+    color: red;
+}
+
+/* selector por id */
+#subtitle1 {
+    color: purple;
+}
